@@ -31,7 +31,7 @@ NumPy-Transformer/
 Clone the repository and run the test script to observe the forward pass of tensors through the Transformer encoder:
 ```bash
 # Clone the repo
-git clone [https://github.com/sleepyquq/NumPy-Mini-Transformer.git](https://github.com/your-username/NumPy-Mini-Transformer.git)
+git clone [https://github.com/sleepyquq/NumPy-Mini-Transformer.git](https://github.com/sleepyquq/NumPy-Mini-Transformer.git)
 
 # Navigate to the directory
 cd NumPy-Transformer
