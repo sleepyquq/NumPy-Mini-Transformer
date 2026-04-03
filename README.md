@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-Dependency_Free-green.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 A lightweight, dependency-free implementation of the core Transformer Encoder architecture using **pure NumPy**. 
 
